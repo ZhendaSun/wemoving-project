@@ -1,6 +1,7 @@
 package com.wemoving.common.core.page;
 
-import top.wemove.common.utils.StringUtils;
+
+import com.wemoving.common.utils.StringUtils;
 
 /**
  * 分页数据
